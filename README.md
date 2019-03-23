@@ -9,3 +9,4 @@ Seaborn
 Matplotlib
 Sklearn
 Scipy
+XGBoost
